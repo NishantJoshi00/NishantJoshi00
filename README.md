@@ -13,7 +13,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
   "identificatio": "Nishant Joshi",
   "country": "India",
   "species": "Homo sapiens(Human)",
-  "finding": ["Purpose", "friends", "Reason"]
+  "finding": ["Purpose", "Friends", "Reason"]
 }
 ```
 ---
