@@ -30,9 +30,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 ## Contact Details
-Not really contact details, rather some online instances of my existence in this virtual totality.
-<br>
-Check me, hangout with me, or look at some of my stuff. go crazy😁
+> *Not really*, rather some online instances of my existence in this virtual world.
+> <br>
+> <br>
+> Check me, hangout with me, or look at some of my stuff. go crazy😁
 
 <br>
 <p align="center">
