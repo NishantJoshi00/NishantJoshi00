@@ -19,6 +19,16 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
   }
 }
 ```
+## With me so far ?
+If you just came to my page, go check some of my repositories out, you won't be disappointed, you might even find some inspiration.
+<br>
+> - Liked what i do?
+> - Wanna support me?
+> Leave some constructive feedbacks and 
+> If you could be so kind ...
+
+
+
 ---
 ## What am I upto ?
 <br>
