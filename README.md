@@ -27,6 +27,7 @@ If you just came to my page, go check some of my repositories out, you won't be 
 > Leave some constructive feedbacks and 
 > If you could be so kind ...
 
+<a href="https://www.buymeacoffee.com/nishantjoshi" title="Buy me a coffee"><img src="./assets/images/buymeacoffee.png" height="40"></a>
 
 
 ---
