@@ -27,7 +27,7 @@ If you just came to my page, go check some of my repositories out, you won't be 
 > Leave some constructive feedbacks and 
 > If you could be so kind ...
 
-<a href="https://www.buymeacoffee.com/nishantjoshi" title="Buy me a coffee"><img src="./assets/images/buymeacoffee.png" height="40"></a>
+<a href="https://www.buymeacoffee.com/nishantjoshi" title="Buy me a coffee"><img src="./assets/images/buymeacoffee.png" width="140vw"></a>
 
 
 ---
@@ -50,13 +50,13 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <p align="center">
-  <a href="https://discord.gg/" title="Discord"><img src="./assets/images/discord.png" height="50"></a>
-  <a href="https://www.instagram.com/nishantjosh" title="Instagram"><img src="./assets/images/instagram.png" height="50"></a>
+  <a href="https://discord.gg/" title="Discord"><img src="./assets/images/discord.png" width="50vw"></a>
+  <a href="https://www.instagram.com/nishantjosh" title="Instagram"><img src="./assets/images/instagram.png" width="50vw"></a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/joshinishant_1" title="Twitter"><img src="./assets/images/twitter.png" height="50"></a>
-  <a href="mailto:nishantjo.12@gmail.com" title="Gmail"><img src="./assets/images/gmail.png" height="50"></a>
-  <a href="https://t.me/NishantJ0shi" title="Telegram"><img src="./assets/images/telegram.png" height="50"></a>
-  <a href="https://joshinishant.medium.com/" title="Medium"><img src="./assets/images/medium.png" height="50"></a>
+  <a href="https://twitter.com/joshinishant_1" title="Twitter"><img src="./assets/images/twitter.png" width="50vw"></a>
+  <a href="mailto:nishantjo.12@gmail.com" title="Gmail"><img src="./assets/images/gmail.png" width="50vw"></a>
+  <a href="https://t.me/NishantJ0shi" title="Telegram"><img src="./assets/images/telegram.png" width="50vw"></a>
+  <a href="https://joshinishant.medium.com/" title="Medium"><img src="./assets/images/medium.png" width="50vw"></a>
 </p>
