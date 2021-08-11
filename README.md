@@ -20,7 +20,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
 }
 ```
 ## With me so far ?
-If you just came to my page, go check some of my repositories out, you won't be disappointed, you might even find some inspiration.
+If you just came to my page, go check some of my repositories, you won't be disappointed, you might even find some inspiration, or something interesting.
 <br>
 > - Liked what i do?
 > - Wanna support me?
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 > *Not really*, rather some online instances of my existence in this virtual world.
 > <br>
 > <br>
-> Check me, hangout with me, or look at some of my stuff. go crazy😁
+> Check it, hangout with me, or look at some of my stuff. go crazy😁
 
 <br>
 <p align="center">
