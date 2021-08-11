@@ -6,8 +6,8 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
 - Coder, Programmer, 3D Designer, Tester, Linux Craziest 🤖
 - Anime Lover, Badminton Player, Video Gamer 👾
 - Anti-social but friendly, Jack of All(Kinda..😕) 🦕
-- Human, Identified my the people around him as **Nishant Joshi**
-- Someone from a country of a big (big nahh, massive) population
+- Human, Identified by the people around him as **Nishant Joshi**
+- Someone from a country of a big (big nahh, massive) population.
 ### Short answer
 ```json
 {
