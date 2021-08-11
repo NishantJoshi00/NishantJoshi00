@@ -7,7 +7,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
 - Anime Lover, Badminton Player, Video Gamer 👾
 - Anti-social but friendly, Jack of All(Kinda..😕) 🦕
 - Human, Identified my the people around him as **Nishant Joshi**
-- Singular being from a country of a big (big nahh, massive) population
+- Someone from a country of a big (big nahh, massive) population
 ### Short answer
 ```json
 {
