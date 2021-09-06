@@ -24,7 +24,7 @@ If you just came to my page, go check some of my repositories, you won't be disa
 <br>
 > - Liked what i do?
 > - Wanna support me?
-> Leave some constructive feedbacks and 
+> Leave some constructive feedback in the issues
 <!-- > If you could be so kind ...
 
 <a href="https://www.buymeacoffee.com/nishantjoshi" title="Buy me a coffee"><img src="./assets/images/buymeacoffee.png" width="140vw"></a> -->
