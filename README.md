@@ -15,7 +15,7 @@ Hey there, I see you stumbled into this page, well awesome, go check it out, it'
   "country": "India",
   "species": "Homo sapiens (Human)",
   "tasks": {
-      "find": ["Purpose", "Friends", "Job"],
+      "find": ["Purpose", "Friends", "Life"],
   }
 }
 ```
