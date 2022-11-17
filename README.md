@@ -28,10 +28,6 @@ If you just came to my page, go check some of my repositories, you won't be disa
 <!-- > If you could be so kind ...
 
 <a href="https://www.buymeacoffee.com/nishantjoshi" title="Buy me a coffee"><img src="./assets/images/buymeacoffee.png" width="140vw"></a> -->
-
-## Research \ News
-- If you don't mind filling up this survey: https://www.surveymonkey.com/r/N7M3R2W it's simply about public openion on podcasts & online sessions.
-
 ---
 ## What am I upto ?
 <br>
