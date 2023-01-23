@@ -54,7 +54,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://twitter.com/nishant_joshi_" title="Twitter"><img src="./assets/images/twitter.png" width="50vw"></a>
-  <a href="mailto:nishantjo.12@gmail.com" title="Gmail"><img src="./assets/images/gmail.png" width="50vw"></a>
   <a href="https://t.me/NishantJ0shi" title="Telegram"><img src="./assets/images/telegram.png" width="50vw"></a>
   <a href="https://joshinishant.medium.com/" title="Medium"><img src="./assets/images/medium.png" width="50vw"></a>
 </p>
