@@ -1,7 +1,10 @@
-## README 
+
+
+## README
 Hey there, I see you stumbled into this page, well awesome, go check it out, it's pretty darn interesting, see if you find anything interesting, or anything incomplete, pull some stuff, clone some stuff, add some, delete some, go wild!!
 
 ## Who am I ?
+*Known to solve leetcode problems with HTML*
 ### Long answer
 - Coder, Programmer, 3D Designer, Tester, Linux Craziest 🤖
 - Anime Lover, Badminton Player, Video Gamer 👾
