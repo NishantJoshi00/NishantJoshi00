@@ -33,7 +33,7 @@ Welcome to my digital playground! I'm a curious coder with a passion for Rust an
 
 ### 🎭 Quote of the Day
 
-"My code doesn't always compile, but when it does, it's probably Rust." - Nishant, probably
+"It's either comfort or a story; you are never left disappointed." - Nishant, probably
 
 ### 📫 Let's Connect!
 
