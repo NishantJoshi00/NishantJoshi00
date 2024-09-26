@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Nishant Joshi
+# 👋 Hello, World! I'm Nishant
 
 Hey there! I see you've stumbled onto this page. Awesome! Check it out—it's pretty darn interesting. See if you find anything intriguing or incomplete. Pull some stuff, clone some stuff, add some, delete some. Go wild!
 
@@ -9,7 +9,7 @@ Welcome to my digital playground! I'm a curious coder with a passion for Rust an
 ### 🛠 Tech Stack & Stats
 
 - 🦀 Rust aficionado (76.76% of my code is in Rust!)
-- 🌈 Full-stack maestro (JavaScript, CSS, HTML, TypeScript)
+- 💻  Full-stack maestro (JavaScript, CSS, HTML, TypeScript)
 - 🧪 Polyglot programmer (Zig, Ruby, Python, and 20+ more languages)
 - 🛠 DevOps and database enthusiast
 - 🧠 Dabbling in AI/ML and data analysis
