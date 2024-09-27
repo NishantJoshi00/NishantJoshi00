@@ -14,7 +14,11 @@ Welcome to my digital playground! I'm a curious coder with a passion for Rust an
 - 🛠 DevOps and database enthusiast
 - 🧠 Dabbling in AI/ML and data analysis
 
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantJoshi00&show_icons=true&theme=radical)
+
+<br>
+
+[![Nishant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NishantJoshi00&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/NishantJoshi00)
+
 
 ### 🌟 Featured Projects
 
