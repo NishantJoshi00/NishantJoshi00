@@ -23,7 +23,7 @@ Welcome to my digital playground! I'm a curious coder with a passion for Rust an
 ### 🌟 Featured Projects
 
 1. **[hyperswitch](https://github.com/juspay/hyperswitch)**: An open-source payment switch powering financial transactions.
-2. **[finternet-api](https://github.com/NishantJoshi00/finternet-api)**: Bridging finance and the internet with robust APIs.
+2. **[units](https://github.com/NishantJoshi00/units)**: Bridging finance and the internet with robust APIs.
 3. **[nvim-config](https://github.com/NishantJoshi00/nvim-config)**: My personalized Neovim configuration for optimal coding efficiency.
 4. **[mobi](https://github.com/NishantJoshi00/mobi)**: Mobile-focused development tools and utilities.
 5. **[advent-of-code-2023](https://github.com/NishantJoshi00/advent-of-code-2023)**: My solutions to the Advent of Code 2023 challenges. Come for the code, stay for the holiday spirit!
