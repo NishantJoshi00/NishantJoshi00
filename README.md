@@ -41,8 +41,8 @@ Welcome to my digital playground! I'm a curious coder with a passion for Rust an
 
 ### 📫 Let's Connect!
 
-- 🐦 Twitter: [@nishant_joshi_](https://x.com/nishantjosh)
+- 🐦 Twitter: [@nishantjosh](https://x.com/nishantjosh)
 - 💼 LinkedIn: [Let's connect!](https://www.linkedin.com/in/nishantjosh)
-- 🌐 Website: [Coming soon... or is it?](https://nishantjoshi00.github.io/)
+- 🌐 Website: [Coming soon... or is it?](https://nishantjosh.dev/)
 
 Remember, in the world of code, we're all just trying to avoid segmentation faults and undefined behavior. Happy coding! 🎉
