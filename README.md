@@ -4,7 +4,7 @@ Hey there! I see you've stumbled onto this page. Awesome! Check it out—it's pr
 
 ## 🚀 Rust Enthusiast | 🌐 Full-Stack Developer | 🧠 AI Tinkerer
 
-Welcome to my digital playground! I'm a curious coder with a passion for Rust and a love for all things tech. By day, I'm crafting elegant solutions at @juspay, and by night, I'm exploring the vast universe of code and beyond.
+Welcome to my digital playground! I'm a curious coder with a passion for Rust and a love for all things tech. By day, I'm crafting elegant solutions at @skillsync, and by night, I'm exploring the vast universe of code and beyond.
 
 ### 🛠 Tech Stack & Stats
 
