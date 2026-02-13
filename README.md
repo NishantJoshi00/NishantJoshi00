@@ -1,48 +1,41 @@
-# 👋 Hello, World! I'm Nishant
+# Nishant Joshi
 
-Hey there! I see you've stumbled onto this page. Awesome! Check it out—it's pretty darn interesting. See if you find anything intriguing or incomplete. Pull some stuff, clone some stuff, add some, delete some. Go wild!
+```
+NISHANTJOSHI(1)                 CTO Manual                 NISHANTJOSHI(1)
 
-## 🚀 Rust Enthusiast | 🌐 Full-Stack Developer | 🧠 AI Tinkerer
+NAME
+       nishantjoshi - converts entropy into repositories
 
-Welcome to my digital playground! I'm a curious coder with a passion for Rust and a love for all things tech. By day, I'm crafting elegant solutions at @skillsync, and by night, I'm exploring the vast universe of code and beyond.
+SYNOPSIS
+       nishantjoshi [--rust | --zig | --swift | --ts | --why] <idea-at-3am>
 
-### 🛠 Tech Stack & Stats
+DESCRIPTION
+       Converts unstructured ideas into infrastructure. Output: roughly
+       20 repositories per year since 2019, peaking at 29 in 2024. Most
+       remain undocumented.
 
-- 🦀 Rust aficionado (76.76% of my code is in Rust!)
-- 💻  Full-stack maestro (JavaScript, CSS, HTML, TypeScript)
-- 🧪 Polyglot programmer (Zig, Ruby, Python, and 20+ more languages)
-- 🛠 DevOps and database enthusiast
-- 🧠 Dabbling in AI/ML and data analysis
+       Has been observed leaving 169 PRs in hyperswitch (40K★) before
+       moving on. Named a crate after a Pokémon. It has 271 stars.
+       Primary language: Rust. Secondary language: Zig. Tertiary
+       language: regret.
 
+       Unconfirmed reports suggest a webcam feed was made Braille-
+       compatible and a Flipper Zero Zig-friendly. in the same month.
 
-<br>
+       In a world of AI, still maintains a Neovim config with 80+
+       plugins. It is "almost done."
 
-[![Nishant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NishantJoshi00&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/NishantJoshi00)
+WARNINGS
+       This utility has not been audited, tested, or slowed down.
 
+BUGS
+       Yes.
 
-### 🌟 Featured Projects
+SEE ALSO
+       sleep(1) — not found
 
-1. **[hyperswitch](https://github.com/juspay/hyperswitch)**: An open-source payment switch powering financial transactions.
-2. **[units](https://github.com/NishantJoshi00/units)**: Bridging finance and the internet with robust APIs.
-3. **[nvim-config](https://github.com/NishantJoshi00/nvim-config)**: My personalized Neovim configuration for optimal coding efficiency.
-4. **[mobi](https://github.com/NishantJoshi00/mobi)**: Mobile-focused development tools and utilities.
-5. **[advent-of-code-2023](https://github.com/NishantJoshi00/advent-of-code-2023)**: My solutions to the Advent of Code 2023 challenges. Come for the code, stay for the holiday spirit!
+```
 
-### 💡 Fun Facts
+[Twitter](https://x.com/nishantjosh) · [LinkedIn](https://www.linkedin.com/in/nishantjosh) · [nishantjosh.dev](https://nishantjosh.dev)
 
-- I hail from ಬೆಂಗಳೂರು <-> मुंबई (Bengaluru and Mumbai)
-- My skills are only limited by your imagination. 🚀
-- I've contributed to 100+ public repositories. Talk about open-source love!
-- Always in learning mode, whether it's a new programming language or a historical fact.
-
-### 🎭 Quote of the Day
-
-"It's either comfort or a story; you are never left disappointed." - Nishant, probably
-
-### 📫 Let's Connect!
-
-- 🐦 Twitter: [@nishantjosh](https://x.com/nishantjosh)
-- 💼 LinkedIn: [Let's connect!](https://www.linkedin.com/in/nishantjosh)
-- 🌐 Website: [Coming soon... or is it?](https://nishantjosh.dev/)
-
-Remember, in the world of code, we're all just trying to avoid segmentation faults and undefined behavior. Happy coding! 🎉
+<sub>segfault (core dumped)</sub>
